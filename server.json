@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site.",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2020-02-12T19:36:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2020-02-12T19:30:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-13T22:37:32.381Z",
+      "id": 3
+    }
+  ]
+}
